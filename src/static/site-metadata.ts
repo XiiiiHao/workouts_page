@@ -13,7 +13,7 @@ interface ISiteMetadataResult {
 const data: ISiteMetadataResult = {
   siteTitle: 'Workouts Map',
   siteUrl: 'https://github.com/XiiiiHao',
-  logo: 'https://raw.githubusercontent.com/XiiiiHao/workouts_page/master/public/images/favicon.png',
+  logo: 'https://raw.githubusercontent.com/XiiiiHao/workouts_page/master/public/images/d7bc08ac4724d36f95cc40d621b6351b.jpg',
   description: 'Personal site and blog',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [

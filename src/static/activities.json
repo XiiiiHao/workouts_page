@@ -4468,5 +4468,20 @@
 "average_speed": 2.611,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12797235917,
+"name": "\u665a\u95f4\u8dd1\u6b65",
+"distance": 2989.0,
+"moving_time": "0:17:48",
+"type": "Run",
+"start_date": "2024-11-01 14:03:50+00:00",
+"start_date_local": "2024-11-01 22:03:50",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": null,
+"average_speed": 2.799,
+"source": "strava",
+"streak": 1
 }
 ]
